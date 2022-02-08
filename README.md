@@ -13,7 +13,7 @@ This integration allows you to send alerts to users in xMatters and then resolve
 
 ---------
 
-An updated version of this integration is available. You can install the new version right from the Workflow Templates directory within your xMatters instance. [Learn more](http://help.xmatters.com/integrations/#cshid=Sentry).
+An updated version of this integration is available. You can install the new one-way version right from the Workflow Templates directory within your xMatters instance. [Learn more](http://help.xmatters.com/integrations/#cshid=Sentry).
 
 ---------
 
